@@ -1,0 +1,16 @@
+Installation instructions for macOS Logo
+macOS
+LibreWolf macOS RepositorySystem Requirements
+HomeBrew
+LibreWolf is available via HomeBrew by entering:
+
+brew install --cask librewolf
+It is possible that Apple Silicon users see their recently installed LibreWolf flagged as broken. More details are available in our FAQ.
+
+Disk Image
+You can also install LibreWolf via a .dmg, but please note that this method requires to apply updates manually.
+
+Download librewolf-106.0.2-1.en-US.mac.x86_64.dmgView all versions and release notes
+
+Compiling from source
+Instructions for building LibreWolf from source on macOS can be found in the build guide. This method is strongly suggested, especially on M1 powered machines, where the compile time is rather short.
